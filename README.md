@@ -7,8 +7,8 @@ It is a very cool project, which aims to build a distributed computing system on
 (This field is traditionally called Crowd Computing, but lack of attention.) 
 We are trying to utilize the idle resources of mobile devices to build a powerful computing platform.   
 
-## phase 1 plan
- ![未命名绘图 drawio](https://github.com/user-attachments/assets/38a7ba5a-b0b3-498c-9008-646fa1d1f6ee)
+## Phase 1 plan
+ ![未命名绘图 drawio](https://github.com/user-attachments/assets/38a7ba5a-b0b3-498c-9008-646fa1d1f6ee)  
 conduct a demo experiment within Nanjing University.   
 - Workload: text-summarization generative model.
 - Basic architecture: as the diagram
